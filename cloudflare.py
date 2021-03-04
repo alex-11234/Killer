@@ -31,5 +31,3 @@ def __start__():
         print("")
         sys.exit()
 __start__()
-
-#TopLearn.com
